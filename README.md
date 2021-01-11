@@ -1,6 +1,6 @@
 # Sudoku
 
-This is a simple implementation of a Sudoku solver.  
+This is a simple C++ implementation of a Sudoku solver.  
 
 ## Getting Started  
 
